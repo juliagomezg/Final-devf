@@ -1,0 +1,17 @@
+.header {
+    overflow: hidden;
+    background-color: white;
+    color: grey;
+    text-decoration: none;
+    padding: 26px 10px;
+  }
+
+a{
+  text-decoration: none;
+  color: grey;
+}
+
+  .carousel {
+    height: 80%;
+    width: 70%;
+  }
