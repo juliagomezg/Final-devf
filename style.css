@@ -1,3 +1,30 @@
+.parte1{
+    color: red;
+    background-color: blue;
+    height: 30rem;
+}
+
+.parte2{
+    color: yellow;
+    background-color: gray;
+    height: 30rem;
+}
+.parte2a{
+    color: blue;
+    background-color: red;
+    height: 50%;
+}
+.parte2b{
+    color: yellow;
+    background-color: green;
+    height: 40%;
+}
+
+.parte3{
+    color: blue;
+    background-color: yellow;
+    height: 10rem;
+}
 
 
 .h1 {
