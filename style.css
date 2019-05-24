@@ -1,6 +1,19 @@
+.logo{
+    color: red;
+    background-color: rgb(215, 215, 224);
+    height: 10rem;
+}
+.navbar{
+    color: darkblue;
+    cbackground-color: rgb(185, 185, 196);
+
+}
+
+
+
 .parte1{
     color: red;
-    background-color: blue;
+    background-color: rgb(190, 224, 150);
     height: 30rem;
 }
 
@@ -10,14 +23,14 @@
     height: 30rem;
 }
 .parte2a{
-    color: blue;
-    background-color: red;
+    color: rgb(246, 246, 250);
+    background-color: rgb(228, 217, 217);
     height: 50%;
 }
 .parte2b{
-    color: yellow;
-    background-color: green;
-    height: 40%;
+    color: darkblue;
+    background-color: white;
+    height: 45%;
 }
 
 .parte3{
